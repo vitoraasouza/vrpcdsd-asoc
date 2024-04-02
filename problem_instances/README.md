@@ -1,7 +1,7 @@
 ## Instances names mapping
 
-| repo name | paper name |
-|-----------|------------|
+| name in this repo | name in the paper |
+|-------------------|-------------------|
 | R1_4_1_5r | Ra-r5-k2 |
 | R1_4_2_5r | Rb-r5-k2 |
 | R1_4_3_5r | Rc-r5-k2 |
