@@ -1,0 +1,31 @@
+REQUESTS
+NUMBER
+  15
+
+VEHICLES
+NUMBER    CAPACITY
+   4         50
+
+REQUEST     SUPPLIER                  CUSTOMER
+   ID       coord_X      coord_Y      coord_X      coord_Y      demand
+    0           100          100            -            -          CD
+    1            12          113          113          151          18
+    2            27           97          200          162          15
+    3            59           24          103           25           8
+    4            99           45          165          181          11
+    5            59           83          127           39          13
+    6            28          160          156           93           8
+    7            39          112          149           78           2
+    8            23          176          114          112          12
+    9            13          139          138           31          12
+   10            98          193          125          180           1
+   11             1           54          153           19          19
+   12            37          177          113           14           1
+   13            89          153          175           60           4
+   14            56           90          150           26          20
+   15            28           77          145           19          18
+
+LOAD-UNLOAD
+PREPARATION_TIME     TIME_PER_PALLET     BETWEEN_CONSECUTIVE_DOCKS_TIME
+       5                    1                         1
+
